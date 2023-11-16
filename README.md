@@ -31,7 +31,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/--------------------.git
+     git clone https://github.com/KalyanMurapaka45/Student-PerfoRmance-Prediction.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -74,13 +74,13 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/movierecommend-app
+     docker pull kalyan45/student-app
      ```
 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command, and mapping any necessary ports:
      ```
-     docker run -p 5000:5000 kalyan45/movierecommend-app
+     docker run -p 5000:5000 kalyan45/student-app
      ```
 
 3. **Access the Project**
